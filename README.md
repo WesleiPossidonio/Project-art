@@ -15,7 +15,7 @@ Esse é um dos meus primeiros projetos usando bootstrap.
 ### Sobre o Projeto
 
 <h1>
-    <img width="965px" src="./img/art-gif.gif">
+    <img width="965px" src="./img/Art-gif.gif">
 </h1>
 
 
